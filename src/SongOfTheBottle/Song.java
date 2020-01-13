@@ -3,6 +3,7 @@ package SongOfTheBottle;
 public class Song {
         public static void main (String[] args) {
             int beerNum=99;
+            int y = 3;
             String word;
             {
                 while (beerNum > 0){
