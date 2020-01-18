@@ -1,4 +1,4 @@
-package Examples;
+package Echo;
 
 public class Echo {
 int count = 0;

@@ -1,4 +1,4 @@
-package Examples;
+package Echo;
 
 public class EchoTestDrive {
     public static void main (String[] args){
