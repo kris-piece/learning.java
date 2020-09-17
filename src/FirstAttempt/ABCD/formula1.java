@@ -1,4 +1,4 @@
-package ABCD;
+package FirstAttempt.ABCD;
 
 public class formula1 {
     public static void main(String[] args) {

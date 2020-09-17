@@ -1,4 +1,4 @@
-package GameLauncher;
+package FirstAttempt.ABCD.GameLauncher;
 
 public class GuessGame{
     Player p1;

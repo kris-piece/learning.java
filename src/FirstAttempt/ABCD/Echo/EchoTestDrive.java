@@ -1,4 +1,4 @@
-package Echo;
+package FirstAttempt.ABCD.Echo;
 
 public class EchoTestDrive {
     public static void main (String[] args){

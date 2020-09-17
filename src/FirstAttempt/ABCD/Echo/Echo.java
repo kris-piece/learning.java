@@ -1,4 +1,4 @@
-package Echo;
+package FirstAttempt.ABCD.Echo;
 
 public class Echo {
 int count = 0;

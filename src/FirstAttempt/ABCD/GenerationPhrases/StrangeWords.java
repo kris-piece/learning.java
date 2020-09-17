@@ -1,4 +1,4 @@
-package GenerationPhrases;
+package FirstAttempt.ABCD.GenerationPhrases;
 
 public class StrangeWords {
     public static void main(String[] args) {

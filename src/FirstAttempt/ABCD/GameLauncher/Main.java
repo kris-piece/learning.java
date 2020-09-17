@@ -1,4 +1,4 @@
-package GameLauncher;
+package FirstAttempt.ABCD.GameLauncher;
 
 class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package SongOfTheBottle;
+package FirstAttempt.ABCD.SongOfTheBottle;
 
 public class Song {
         public static void main (String[] args) {
